@@ -1,0 +1,7 @@
+total 37
+drwxr-xr-x 1 Aarhy 197609     0 Jan 20 23:15 ./
+drwxr-xr-x 1 Aarhy 197609     0 Jan 20 23:14 ../
+drwxr-xr-x 1 Aarhy 197609     0 Jan 20 23:14 .git/
+-rw-r--r-- 1 Aarhy 197609     0 Jan 20 23:15 file.txt
+-rw-r--r-- 1 Aarhy 197609 35821 Jan 20 23:14 LICENSE
+-rw-r--r-- 1 Aarhy 197609     6 Jan 20 23:14 README.md
